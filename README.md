@@ -1,6 +1,6 @@
 # Joseph Martin Vanliew
 
-** INTERESTS **
+**INTERESTS**
 * Books that spin the fantasy genre's style of writing and character motivations into Sci-fi worlds. 
 * At the moment I'm learning Go-lang for the backend of the term project for this course.
 * Video Games, currently stuck on Slay The Spire.
