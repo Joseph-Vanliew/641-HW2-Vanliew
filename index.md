@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Joseph Martin Vanliew
-
+---
 # Joseph Vanliew
 
 ## Interests
@@ -18,8 +18,8 @@ Some work during an HPC course using C and CPP for some parallelization and reso
 
 A Petri-Net project written in Java with a React framework frontend that works WORKS!.... However the frontend is still incomplete. Tested thoroughly for its next state processing function. Although it could be more thorough. Probably need to look at my boundary analysis and mutations again.
 
-## Current Project Description
-We're building a video conferencing application called [XsQuadrant](https://joseph-vanliew.github.io/GVSU-CIS641-XsQuadrant/)!\
+## Current Project
+We're building a video conferencing application called [XsQuadrant](https://joseph-vanliew.github.io/GVSU-CIS641-XsQuadrant/)!
 
 A real time communication app is something most every single person woorking professionally or going through school uses everyday. WebRTC and Go are new technologies to the team and presents an exciting opportunity for learning a new stack.
 
