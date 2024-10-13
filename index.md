@@ -8,13 +8,13 @@ title: Joseph Martin Vanliew
 # Joseph Vanliew
 
 ## Interests
-<div class="highlight">
+<div>
   <ul>
     <li>Books that spin the fantasy genre's style of writing and character motivations into Sci-Fi worlds.</li>
     <li>At the moment I'm learning Go-lang for the backend of the term project for this course.</li>
     <li>Video Games, currently stuck on *Slay the Spire*.</li>
   </ul>
-</div># Interests
+</div>
 
 ## Technical Background
 1 year Backend, Cloud Applications Programming, and Algorithms coursework from SNHU 2022-2023. Focused on programming in Java. Course projects focused on webapps and AWS service utilizations such as Lambda, DynamoDB, CloudWatch, Pipeline, etc. Solid foundational experience coming from a non CS Degree background. Recent projects from GVSU have included some frontend experience in JS, HTML CSS and REACT. Major backend frameworks have been SpringBoot and Hibernate. Build Tools include Gradle and Maven. Familiar with npm and brew.
