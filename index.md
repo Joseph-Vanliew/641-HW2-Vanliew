@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Joseph Martin Vanliew
+title: Joseph Vanliew
 ---
 
 <link rel="stylesheet" href="assets/css/styles.css">

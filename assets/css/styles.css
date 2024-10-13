@@ -49,31 +49,6 @@ li {
   margin-bottom: 10px;
 }
 
-/* Sidebar */
-.sidebar {
-  background-color: #e3e9f2;
-  padding: 10px;
-  border-radius: 10px;
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.sidebar a {
-  color: #0066cc;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.sidebar a:hover {
-  text-decoration: underline;
-}
-
-.sidebar h1 {
-  font-size: 28px;
-  margin-bottom: 20px;
-  color: #2a7ae2;
-}
-
 /* Buttons and Links */
 a {
   color: #2a7ae2;
@@ -107,3 +82,50 @@ button:hover, .btn-link:hover {
   border-radius: 5px;
   margin-bottom: 20px;
 }
+
+/* Top Bar Styling */
+.top-bar {
+  background-color: #2a7ae2; /* Change color if needed */
+  padding: 15px 20px;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.top-bar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-bar h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content Styling */
+.content {
+  padding: 20px;
+  margin-top: 20px;
+}
+
