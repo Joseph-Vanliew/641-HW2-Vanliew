@@ -1,7 +1,7 @@
 title: Joseph's Portfolio
 description: Thank you for visiting!
 markdown: kramdown
-theme: minimal
+theme: Jekyll-theme-minimal
 plugins:
   - jekyll-feed
 sass:
