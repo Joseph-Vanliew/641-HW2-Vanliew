@@ -7,7 +7,7 @@
 
 ## Technical Background
 
-1 year Backend, Cloud Applications Programming, and Algorythms coursework from SNHU 2022-2023. Focused on
+1 year Backend, Cloud Applications Programming, and Algorithms coursework from SNHU 2022-2023. Focused on
 programming in Java. Course projects focused on webapps and AWS service utilizations such as
 Lambda, DynamoDB, CloudWatch, Pipeline, etc. Solid foundational experience coming from a non 
 CS Degree background. Recent projects from GVSU have included some frontend experience in JS,
