@@ -9,8 +9,8 @@ title: Joseph Vanliew
 <div>
   <ul>
     <li>Books that spin the fantasy genre's style of writing and character motivations into Sci-Fi worlds.</li>
-    <li>At the moment I'm learning Go-lang for the backend of the term project for this course.</li>
-    <li>Video Games, currently stuck on *Slay the Spire*.</li>
+    <li>At the moment I'm learning Go-lang for the backend of a term project for a course I'm taking in systems analysis and design.</li>
+    <li>Video Games, currently loving *Slay the Spire*.</li>
   </ul>
 </div>
 
@@ -19,12 +19,10 @@ title: Joseph Vanliew
 
 Other recent work has been done in Python (in Colab) for my machine learning and data engineering classes including working with many relational and non-relational db's. Familiar with Anaconda's package management as well.
 
-Some work during an HPC course using C and CPP for some parallelization and resource utliziation.
-
+Some work during an HPC course using C and CPP for some parallelization and resource utliziation. \
 A Petri-Net project written in Java with a React framework frontend that works WORKS!.... However the frontend is still incomplete. Tested thoroughly for its next state processing function. Although it could be more thorough. Probably need to look at my boundary analysis and mutations again.
 
 ## <span id="Current Work">Current Work</span>
- [XsQuadrant](https://joseph-vanliew.github.io/GVSU-CIS641-XsQuadrant/)!
-
-A real time communication app is something most every single person woorking professionally or going through school uses everyday. WebRTC and Go are new technologies to the team and presents an exciting opportunity for learning a new stack.
+ [XsQuadrant](https://joseph-vanliew.github.io/GVSU-CIS641-XsQuadrant/)\
+A real time communication app is something most every single person woorking professionally or going through school uses everyday. WebRTC and Go are new technologies to the team and present an exciting opportunity for testing the capabilities of the team. A user will be able to create and initiate meetings and chat sessions with anyone they share a link with.
 
