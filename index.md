@@ -3,7 +3,8 @@ layout: default
 title: Joseph Vanliew
 ---
 
-<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="{{ '/assets/css/styles.css?v=1.1' | relative_url }}">
+
 
 ## <span id="Interests">Interests</span>
 <div>
